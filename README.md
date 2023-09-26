@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @xDemoneQ.
+- 🎂 I'm 14 years old.
+- ✉️ Contact: demoneqmail@gmail.com.
+- 🐘 Discord: xdemoneq_
