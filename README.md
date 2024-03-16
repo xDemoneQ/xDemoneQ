@@ -14,20 +14,9 @@
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-fc4a03?logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-0398fc?logo=css3&logoColor=white">
-</p>
-<p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5dbf47?logo=node.js&logoColor=white">
   <img alt="Discord.js" src="https://img.shields.io/badge/Discord.js-2fadcc?logo=discord&logoColor=white">
 </p>
-
-#### Statistics
-
-<p>
-  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs?username=xDemoneQ&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="xDemoneQ"/>
-  <img align="center" height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=xDemoneQ &theme=tokyonight" alt="xDemoneQ"/>
-</p>
-
-----------
 
 #### Social Media
 
