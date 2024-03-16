@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm xDemoneQ</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&repeat=false&random=false&width=500&lines=YOUNG+DEV+FROM+POLAND" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&repeat=false&random=false&width=500&lines=YOUNG+DEV+AND+VAL+PLAYER" alt="Typing SVG" /></a>
 
 #### About me
 
