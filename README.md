@@ -4,7 +4,7 @@
 
 #### About me
 
-- 🎂 14yo/bday 31.03.
+- 🎂 15yo/bday 31.03.
 - 🏳️ From poland.
 
 #### Languages and Technologies
